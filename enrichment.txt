@@ -1,4 +1,3 @@
-const schedule = `
 2024-06-01|OFF|OFF|OFF|OFF
 2024-06-03|08:00 am|08:00 pm|Merencanakan promo
 2024-06-04|08:00 am|08:00 pm|Membuat desain poster promo
@@ -24,6 +23,3 @@ const schedule = `
 2024-06-27|08:00 am|08:00 pm|Meeting karyawan
 2024-06-28|08:00 am|08:00 pm|Merencanakan promo
 2024-06-29|OFF|OFF|OFF|OFF
-`;
-
-console.log(schedule);
