@@ -1,0 +1,29 @@
+const schedule = `
+2024-06-01|OFF|OFF|OFF|OFF
+2024-06-03|08:00 am|08:00 pm|Merencanakan promo
+2024-06-04|08:00 am|08:00 pm|Membuat desain poster promo
+2024-06-05|08:00 am|08:00 pm|Membuat desain buku list harga
+2024-06-06|08:00 am|08:00 pm|Quality check
+2024-06-07|08:00 am|08:00 pm|Komunikasi online
+2024-06-08|OFF|OFF|OFF|OFF
+2024-06-10|08:00 am|08:00 pm|Merencanakan promo
+2024-06-11|08:00 am|08:00 pm|Membuat desain price list board
+2024-06-12|08:00 am|08:00 pm|Quality check
+2024-06-13|08:00 am|08:00 pm|Membuat desain poster rutin
+2024-06-14|08:00 am|08:00 pm|Komunikasi online
+2024-06-15|OFF|OFF|OFF|OFF
+2024-06-17|08:00 am|08:00 pm|Quality check
+2024-06-18|08:00 am|08:00 pm|Membuat desain poster promo
+2024-06-19|08:00 am|08:00 pm|Komunikasi online
+2024-06-20|08:00 am|08:00 pm|Merencanakan promo
+2024-06-21|08:00 am|08:00 pm|Membuat desain buku list harga
+2024-06-22|OFF|OFF|OFF|OFF
+2024-06-24|08:00 am|08:00 pm|Quality check
+2024-06-25|08:00 am|08:00 pm|Membuat desain price list board
+2024-06-26|08:00 am|08:00 pm|Komunikasi online
+2024-06-27|08:00 am|08:00 pm|Meeting karyawan
+2024-06-28|08:00 am|08:00 pm|Merencanakan promo
+2024-06-29|OFF|OFF|OFF|OFF
+`;
+
+console.log(schedule);
